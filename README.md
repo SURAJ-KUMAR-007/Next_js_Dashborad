@@ -30,3 +30,9 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 > [Link tag](https://nextjs.org/learn/dashboard-app/navigating-between-pages#the-link-component): we can navigate between the pages without seeing a full refresh. Although parts of your application are rendered on the server, there's no full page refresh,
 
 > Pattern: Showing active links => check the nav-links.tsx file ,their usePathname() hook is used
+
+### Vercel project Deployment and Database setup on vercel
+
+[read here](https://nextjs.org/learn/dashboard-app/setting-up-your-database)
+
+### Fetching data [read here](https://nextjs.org/learn/dashboard-app/fetching-data)
